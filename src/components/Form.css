@@ -1,0 +1,36 @@
+.ctnForm {
+    background-color: white;
+    width: 760px;
+    height: 505px;
+}
+
+.cardCtn {
+    padding: 1rem;
+    border-bottom: none;
+    height: 100%;
+}
+.form-data {
+    margin-top: 1rem;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.formHeader {
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 133.4%;
+color: rgba(0, 0, 0, 0.87);
+
+}
+
+.ctnSelect {
+    margin: 1rem 0;
+}
+
+.ctnBtn {
+    position: relative;
+    top: 60px;
+}
