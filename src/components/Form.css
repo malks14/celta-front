@@ -30,6 +30,10 @@ color: rgba(0, 0, 0, 0.87);
     margin: 1rem 0;
 }
 
+.select-btn {
+    width: 324px;
+}
+
 .ctnBtn {
     position: relative;
     top: 60px;
