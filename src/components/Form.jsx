@@ -38,6 +38,7 @@ const Form = () => {
   }, []);
   const handleRegion = (event) => {
     setRegion(event.target.value);
+    localStorage.setItem("region", JSON.stringify(event.target.value))
   };
   const handleCountry = (event) => {
     setCountry(event.target.value);
